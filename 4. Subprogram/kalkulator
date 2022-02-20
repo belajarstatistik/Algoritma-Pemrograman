@@ -1,0 +1,90 @@
+progran kalkulator;
+uses crt;
+        a,b,pilihan:integer;
+       yakin, guna :char;
+var
+label ulangi, awal;
+function tambah(bill,bil2:integer):integer;
+         hasiltambah:integer; var
+begin
+        hasiltarbah:-bil1+bilz;
+        writeln( 'Hasil penjumlahannya adalah ',hasiltambah);
+        readln;
+end;
+function kurang(bil1,bil2:integer):integer;
+         hasilkurang:integer; var
+begin
+        hasilkurang:-bil1-bilz;
+        writeln( "Hasil pengurangannya adalah ',hasilkurang);
+        readin;
+end;
+function kali(bill, bil2:integer):integer;
+var
+begin
+         hasilkali:integer;
+        hasilkali:-bili*bil2;
+       writeln( "Hasil pembagiannya adalah ',hasilkali);
+        readln;
+end;
+function bagi (bili,bil2:real):real;
+var hasilbagi:real;
+begin
+        hasilbagi:-bili/bil2;
+        writeln( "Hasil perbagiannya adalah ',hasilbagi:e:2);
+        readin;
+end;
+begin
+        clrscr;
+        writeln( "Selamat datang di Kalkulator sederhana');
+        writeln('silahkan pilih menu berikut: '):
+        writeln('1. Penjurlahan');
+        writeln(2. Pengurangan");
+        writeln('3. Perkalian");
+        writeln('4. Pembagian');
+        writeln('s. Keluar');
+ulangi :
+awal
+        write('Pilihan Anda : ');readin(pilihan);
+        case pilihan of
+        1: begin
+                        Mrite( 'Masukkan Nilai Pertama - ):readin(a);
+                        urite( 'Masukkan Nilai kedua
+                        tambah(a, b);
+                                                          ");readin(b);
+                end;
+        2 : begin
+                        urite( 'Masukkan Nilai Pertama - );readin(a);
+                        urite( 'Masukkan Nilai kedua
+                        kurang(a,b);
+                                                        - );readin(b);
+                end;
+        3 : begin
+                        Mrite('Masukkan Nilai Pertana - ):readin(a);
+                        urite( 'Masukkan Nilai kedua
+                        kali(a,b);
+                                                          );readin(b);
+                end;
+                begin 4 :
+                        urite( 'Masukkan Nilai Pertama - );readin(a);
+                        urite( 'Masukkan Nilai kedua
+                        bagi(a,b);
+                                                        - ireadin(b);
+                end;
+        else
+                write('Apakah Anda yakin ingin keluar ? (Y/T) : ');readin(yakin);
+                begin
+               if (yakin- "Y') or (yakin-"y') then
+                        writeln('Terima kasih :)')
+                else
+                        goto ulangi;
+                end;
+        end;
+        write('Ingin menggunakan kalkulator lagi ? (Y/T) : ");readin(guna);
+        begin
+                if (guna-'Y) or (guna-'y") then
+                        goto awal
+                else
+                        uriteln('Terima kasih :)');
+        end:
+readin;
+end.
