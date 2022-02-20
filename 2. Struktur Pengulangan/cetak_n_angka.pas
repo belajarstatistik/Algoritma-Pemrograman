@@ -1,5 +1,5 @@
 program cetak_angka;
-var n, angka:integer;
+var n, angka : integer;
 begin
  write('Masukksan jumlah angka : ');readln(n);
   angka:=1;
