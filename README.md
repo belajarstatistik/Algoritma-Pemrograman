@@ -1,4 +1,4 @@
-# Algoritma dan Pemrograman
+# Algorithms and Programming
 
 Algorithms and programming are basic concepts used in learning programming languages and paradigms. The programming language used in this case is Pascal.
 
@@ -26,14 +26,6 @@ There are several topics discussed here including the concept of selection, repe
 ## Authors
 
 Contributors names and contact info
-  
+
+Rafif Hasabi on Instagram 
 [@hasabirr](https://instagram.com/hasabirr)
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
