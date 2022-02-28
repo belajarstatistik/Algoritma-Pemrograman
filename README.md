@@ -8,18 +8,15 @@ There are several topics discussed here including the concept of selection, repe
 
 ### List of Content
 
-* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/1.%20Konsep%20Pemilihan)]
-* [🌐](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/konsep-pemilihan/)] Concept of Selection
-* [[📂](dplyr/select.R)] 
-* [[🌐](https://www.belajarstatistik.com/blog/2020/12/19/dplyr-select/)] Repetition Structure
+* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/1.%20Konsep%20Pemilihan)] [🌐]](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/konsep-pemilihan/)] Concept of Selection
+* [[📂](dplyr/select.R)] [[🌐](https://www.belajarstatistik.com/blog/2020/12/19/dplyr-select/)] Repetition Structure
 * [[📂](dplyr/mutate.R)]
 * [[🌐](https://www.belajarstatistik.com/blog/2020/12/21/dplyr-mutate/)]
 
 * [[📂](dplyr/arrange.R)]
 * [[🌐](https://www.belajarstatistik.com/blog/2020/12/24/dplyr-arrange/)]
 
-* [[📂](dplyr/filter.R)]
-[[🌐](https://www.belajarstatistik.com/blog/2021/01/10/dplyr-filter/)]
+* [[📂](dplyr/filter.R)] [[🌐](https://www.belajarstatistik.com/blog/2021/01/10/dplyr-filter/)]
 
 * [[📂](dplyr/group_by.R)]
 * [[🌐](https://www.belajarstatistik.com/blog/2021/01/14/dplyr-group-by/)]
