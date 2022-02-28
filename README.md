@@ -8,24 +8,19 @@ There are several topics discussed here including the concept of selection, repe
 
 ### List of Content
 
-* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/1.%20Konsep%20Pemilihan)] [🌐]](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/konsep-pemilihan/)] Concept of Selection
-* [[📂](dplyr/select.R)] [[🌐](https://www.belajarstatistik.com/blog/2020/12/19/dplyr-select/)] Repetition Structure
-* [[📂](dplyr/mutate.R)]
-* [[🌐](https://www.belajarstatistik.com/blog/2020/12/21/dplyr-mutate/)]
+* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/1.%20Konsep%20Pemilihan)] [[🌐](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/konsep-pemilihan/)] Concept of Selection
+* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/2.%20Struktur%20Pengulangan)] [[🌐](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/struktur-perulangan/)] Repetition Structure
+* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/3.%20Enumerasi%20dan%20Subrange)] [[🌐](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/enumerasi-dan-subrange/)] Enumeration and Subrange
 
-* [[📂](dplyr/arrange.R)]
-* [[🌐](https://www.belajarstatistik.com/blog/2020/12/24/dplyr-arrange/)]
+* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/4.%20Subprogram)] [[🌐](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/subprogram/)] Sub Program
 
-* [[📂](dplyr/filter.R)] [[🌐](https://www.belajarstatistik.com/blog/2021/01/10/dplyr-filter/)]
+* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/5.%20Array%20dan%20Record)] [[🌐](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/array-dan-record/)] Array and Record
 
-* [[📂](dplyr/group_by.R)]
-* [[🌐](https://www.belajarstatistik.com/blog/2021/01/14/dplyr-group-by/)]
+* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/6.%20Rekursif)] [[🌐](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/rekursif/)] Recursive
 
-* [[📂](dplyr/summarise.R)]
-* [[🌐](https://www.belajarstatistik.com/blog/2021/01/16/dplyr-summarise/)]
+* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/7.%20Pencarian)] [[🌐](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/pencarian/)] Searching
 
-* [[📂](dplyr/join.R)]
-* [[🌐](https://www.belajarstatistik.com/blog/2021/01/24/dplyr-join/)]
+* [[📂](https://github.com/belajarstatistik/Algoritma-Pemrograman/tree/main/8.%20Pengurutan)] [[🌐](https://www.belajarstatistik.com/blog/category/komputasi/algoritma-pemrograman/pengurutan/)] Sorting
 
 
 ## Authors
